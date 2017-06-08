@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {FunnelComponent} from "./funnel/funnel.component";
 
 @Component({
   selector: 'app-root',
